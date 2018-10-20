@@ -1,1 +1,1 @@
-# Stereo-Synthesis # Stereo-Synthesis
+# View-Synthesis
