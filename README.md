@@ -1,7 +1,5 @@
 # Deep Learning Code Dumping Grounds
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This respitory contains various codes of experiment and dumping ground of deep learning codes.
