@@ -5,6 +5,9 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This respitory contains various codes of experiment and dumping ground of deep learning codes.
+Mostly view synthesis of stereo and light field.
+This code is not an official code of any paper written or affiliated by me.
+This respitory purposes is to serve as a backup incase some part or functions are needed to be reused.
 
 ### Libraries
 
